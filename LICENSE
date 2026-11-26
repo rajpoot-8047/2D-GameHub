@@ -1,0 +1,34 @@
+MIT License (Showcase & Documentation)
+
+Copyright (c) 2026 rajpoot-8047
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the showcase documentation and promotional media files in this repository
+(the "Showcase Materials"), to deal in the Showcase Materials without
+restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Showcase
+Materials, and to permit persons to whom the Showcase Materials are
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Showcase Materials.
+
+THE SHOWCASE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SHOWCASE MATERIALS.
+
+--------------------------------------------------------------------------------
+
+PROPRIETARY SOFTWARE NOTICE
+
+The GameHub (MAZE ARCADE) application source code, game logic, rendering
+engines, and internal build scripts are proprietary and maintained in a private
+repository. Source code is NOT included in this public showcase repository.
+
+Compiled cross-platform release binaries (.exe, .apk, .deb, etc.) are
+distributed free of charge for end-user installation via GitHub Releases:
+https://github.com/rajpoot-8047/2D-GameHub/releases
