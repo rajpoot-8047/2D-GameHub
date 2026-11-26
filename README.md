@@ -17,9 +17,11 @@
 
 ## Visual Gallery
 
-| Tetris (Guideline SRS 120 FPS) | Gravity Shift | Bricks Ball Crusher |
+| Tap Away: Arrow Game | Gravity Shift | Color Switch |
 | :---: | :---: | :---: |
-| <img src="./assets/gamehub-tetris.jpg" alt="Tetris Gameplay" width="260" /> | <img src="./assets/gamehub-gravity.jpg" alt="Gravity Shift Gameplay" width="260" /> | <img src="./assets/gamehub-bricks.jpg" alt="Bricks Ball Crusher Gameplay" width="260" /> |
+| <img src="./assets/gamehub-tap-away.jpg" alt="Tap Away Gameplay" width="260" /> | <img src="./assets/gamehub-gravity.jpg" alt="Gravity Shift Gameplay" width="260" /> | <img src="./assets/gamehub-color-switch.jpg" alt="Color Switch Gameplay" width="260" /> |
+| **Tetris (Guideline SRS 120 FPS)** | **Bricks Ball Crusher** | **Ludo** |
+| <img src="./assets/gamehub-tetris.jpg" alt="Tetris Gameplay" width="260" /> | <img src="./assets/gamehub-bricks.jpg" alt="Bricks Ball Crusher Gameplay" width="260" /> | <img src="./assets/gamehub-ludo.jpg" alt="Ludo Gameplay" width="260" /> |
 
 ---
 
